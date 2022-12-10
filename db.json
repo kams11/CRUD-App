@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "kameshwar Singh",
+      "username": "kams11",
+      "email": "kams11@gmail.com",
+      "phone": "1234567895",
+      "website": "ownskin.com",
+      "id": 1
+    },
+    {
+      "name": "Kandy Singh",
+      "username": "kams11.kams",
+      "email": "kams11@gmail.com",
+      "phone": "1234567895",
+      "website": "legends11.com",
+      "id": 2
+    },
+    {
+      "name": "kams",
+      "username": "kkkk",
+      "email": "afs@gmail.com",
+      "phone": "9110986036",
+      "website": "ownskin.com",
+      "id": 3
+    }
+  ]
+}
